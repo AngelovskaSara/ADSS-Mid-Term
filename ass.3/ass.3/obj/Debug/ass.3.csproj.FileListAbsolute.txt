@@ -1,0 +1,6 @@
+C:\Users\Vojce\Desktop\Sara\ass.3\ass.3\bin\Debug\ass.3.exe.config
+C:\Users\Vojce\Desktop\Sara\ass.3\ass.3\bin\Debug\ass.3.exe
+C:\Users\Vojce\Desktop\Sara\ass.3\ass.3\bin\Debug\ass.3.pdb
+C:\Users\Vojce\Desktop\Sara\ass.3\ass.3\obj\Debug\ass.3.csprojAssemblyReference.cache
+C:\Users\Vojce\Desktop\Sara\ass.3\ass.3\obj\Debug\ass.3.exe
+C:\Users\Vojce\Desktop\Sara\ass.3\ass.3\obj\Debug\ass.3.pdb
